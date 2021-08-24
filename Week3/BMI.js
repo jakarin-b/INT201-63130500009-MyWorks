@@ -16,3 +16,5 @@ function BmiCalculateByPoundsAndInch(pounds,inchs){
 }
 //use the function for result
 console.log(BmiCalculateByPoundsAndInch(36.5,39));
+console.log(BmiCalculateByPoundsAndInch(70,42.5));
+console.log(BmiCalculateByPoundsAndInch(22.6,29.8));
